@@ -21,9 +21,7 @@ Flutter is an open-source UI toolkit by Google for building beautiful, natively 
 - `setState()`
 
 ## 📷 Screenshots
-![IMG_20250420_055002](https://github.com/user-attachments/assets/1f96196b-10c7-48d6-a49b-3f0feb648291)
-![IMG_20250420_055012](https://github.com/user-attachments/assets/5d5afde0-cc33-430b-a6db-7f98814f2722)
-
+![IMG_20250420_055002](https://github.com/user-attachments/assets/1f96196b-10c7-48d6-a49b-3f0feb648291) ![IMG_20250420_055012](https://github.com/user-attachments/assets/5d5afde0-cc33-430b-a6db-7f98814f2722)
 
 ## 🧑‍💻 How to Run the App
 
